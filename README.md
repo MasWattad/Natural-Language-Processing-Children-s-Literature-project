@@ -18,22 +18,6 @@ Our core hypothesis: Over time, children’s literature has become simpler, more
 
 > How has children’s literature evolved in terms of writing style, vocabulary usage, and thematic content between 1700 and today?
 
----
-
-##  Project Structure
-
-├── data/ # Raw and cleaned text files
-├── notebooks/ # Jupyter notebooks for analysis
-│ ├── 01_data_preprocessing.ipynb
-│ ├── 02_feature_extraction.ipynb
-│ ├── 03_visualization.ipynb
-│ ├── 04_topic_modeling.ipynb
-│ └── 05_machine_learning.ipynb
-├── output/ # Visualizations, model results
-├── lexicons/ # Emotion and morality word lists
-├── report/ # Final paper and presentation slides
-├── requirements.txt # Python dependencies
-└── README.md # 
 
 ---
 
