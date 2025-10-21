@@ -1,6 +1,6 @@
 # Stylometric Analysis of Children’s Literature (1700–Present)
 
-## 📘 Overview
+##  Overview
 
 This project explores how the **language, style, and themes** in children’s literature have evolved over the past three centuries. Using 15 iconic books from the 18th to 21st century, we apply **natural language processing (NLP)** and **stylometric techniques** to analyze changes in:
 
@@ -14,13 +14,13 @@ Our core hypothesis: Over time, children’s literature has become simpler, more
 
 ---
 
-## ❓ Research Question
+##  Research Question
 
 > How has children’s literature evolved in terms of writing style, vocabulary usage, and thematic content between 1700 and today?
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ├── data/ # Raw and cleaned text files
 ├── notebooks/ # Jupyter notebooks for analysis
@@ -37,7 +37,7 @@ Our core hypothesis: Over time, children’s literature has become simpler, more
 
 ---
 
-## 📚 Corpus
+##  Corpus
 
 We selected 15 culturally significant children’s books across 4 historical periods:
 
@@ -50,7 +50,7 @@ We selected 15 culturally significant children’s books across 4 historical per
 
 ---
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 
 - **Python 3.9+**
 - `NLTK` – Tokenization, POS tagging, sentiment analysis
@@ -61,7 +61,7 @@ We selected 15 culturally significant children’s books across 4 historical per
 
 ---
 
-## 🔬 Methodology
+##  Methodology
 
 ### Stylometric Features
 We extracted key linguistic and readability features:
@@ -80,7 +80,7 @@ We extracted key linguistic and readability features:
 
 ---
 
-## 📊 Key Findings
+##  Key Findings
 
 - **Simplification Over Time:** Sentences and words have become shorter and simpler, improving readability.
 - **Emotional > Moral:** Use of moral words has declined; emotional content is more stable and expressive.
@@ -90,7 +90,7 @@ We extracted key linguistic and readability features:
 
 ---
 
-## 📈 Machine Learning Summary
+##  Machine Learning Summary
 
 | Model               | Accuracy |
 |--------------------|----------|
@@ -102,7 +102,7 @@ Linear SVM outperformed others with balanced F1 scores across all eras.
 
 ---
 
-## 🧠 Periodization Framework
+##  Periodization Framework
 
 Using TF-IDF and cosine similarity (from Alsudais & Tchalian, 2016), we validated our division of the corpus into four distinct eras. Each adjacent time period had very low similarity (< 0.07), confirming stylistic shifts:
 
@@ -114,7 +114,7 @@ Using TF-IDF and cosine similarity (from Alsudais & Tchalian, 2016), we validate
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This study confirms that children’s literature has undergone major stylistic and thematic changes across three centuries.
 Today’s books are more accessible, emotionally engaging, and inclusive — reflecting broader societal shifts in how childhood, education, and empathy are approached.
