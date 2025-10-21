@@ -46,7 +46,7 @@ We selected 15 culturally significant children’s books across 4 historical per
 | 1700–1799     | *A Little Pretty Pocket-Book*, *Goody Two-Shoes*     |
 | 1800–1899     | *Alice's Adventures in Wonderland*, *Heidi*          |
 | 1900–1999     | *Charlie and the Chocolate Factory*, *Matilda*       |
-| 2000+         | *Wonder*, *Coraline*                                  |
+| 2000+         | *Wonder*, *Coraline*                                 |
 
 ---
 
